@@ -1,0 +1,31 @@
+#name{
+    padding-right: 50px;
+}
+
+#male{
+    padding-right: 50px;
+}
+
+#phone{
+    padding-right: 50px;
+}
+
+#mail{
+    padding-right: 50px;
+}
+
+p{
+    line-height: 0.5;
+}
+
+h1{
+    color:white;
+    background-color:#09f;
+    padding-top: 50px;
+    padding-left:50px;
+    padding-bottom: 100%;
+    margin-right:20px;
+    margin-top:0px;
+    width:100px;
+    float:left;
+}
