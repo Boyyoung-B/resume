@@ -1,0 +1,19 @@
+#name{
+    padding-right: 50px;
+}
+
+#male{
+    padding-right: 50px;
+}
+
+#phone{
+    padding-right: 50px;
+}
+
+#mail{
+    padding-right: 50px;
+}
+
+p{
+    line-height: 0.5;
+}
